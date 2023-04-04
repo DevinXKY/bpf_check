@@ -3,7 +3,7 @@ php扩展 使用libpcap校验字符串是不是一个正确的bpf语句
 
 ```shell
 phpize
-./confure
+./configure
 make && make install
 ```
 
