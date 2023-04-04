@@ -1,5 +1,5 @@
 # bpf_check
-使用libpcap库校验bpf语法是否正确的php扩展
+php扩展 使用libpcap校验字符串是不是一个正确的bpf语句
 
 ```shell
 phpize
